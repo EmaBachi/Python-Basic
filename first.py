@@ -7,6 +7,4 @@ if int(euFloor) <= 0
 if int(euFloor) = 0
 	usFloor = "B"
 	print usFloor;
-	
-if !is_integer(euFloor)
-	print "Europeans use only numbers"
+
